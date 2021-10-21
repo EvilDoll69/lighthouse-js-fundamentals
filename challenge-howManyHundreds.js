@@ -1,5 +1,5 @@
 const howManyHundreds = function(num) {
-  output = num / 100;
+  let output = num / 100;
   return Math.trunc(output);
 
 }
